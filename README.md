@@ -1,12 +1,25 @@
-# React + Vite
+# Creative Portfolio 🚀
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is my personal testing ground where I’m experimenting with **React**, **Vite**, **TailwindCSS**, and cool animation libraries like **GSAP** and **React Bits**.  
 
-Currently, two official plugins are available:
+Currently, I’m building and testing interactive portfolio animations such as text-splitting, staggered reveals, and smooth transitions.  
+This is **not yet a final project** — just me exploring and having fun while learning! 🎨⚡
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## Why this repo?  
+I’m using this repository to:  
+- Try out animation libraries like [React Bits](https://reactbits.dev) and [GSAP](https://greensock.com/gsap/)  
+- Experiment with landing page layouts and UI effects  
+- Practice Git/GitHub workflow (commits, branches, pushes, PRs)  
+- Showcase my progress in becoming a **Full Stack Developer**  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## Quick Start  
+
+```bash
+git clone <this-repo>
+cd creative-portfolio
+npm install
+npm run dev
